@@ -1,0 +1,10 @@
+c:\users\rayban\documents\visual studio 2013\Projects\WCFService\WCFService\bin\WCFService.dll.config
+c:\users\rayban\documents\visual studio 2013\Projects\WCFService\WCFService\bin\WCFService.dll
+c:\users\rayban\documents\visual studio 2013\Projects\WCFService\WCFService\bin\WCFService.pdb
+c:\users\rayban\documents\visual studio 2013\Projects\WCFService\WCFService\bin\EntityFramework.dll
+c:\users\rayban\documents\visual studio 2013\Projects\WCFService\WCFService\bin\EntityFramework.SqlServer.dll
+c:\users\rayban\documents\visual studio 2013\Projects\WCFService\WCFService\bin\EntityFramework.xml
+c:\users\rayban\documents\visual studio 2013\Projects\WCFService\WCFService\bin\EntityFramework.SqlServer.xml
+c:\users\rayban\documents\visual studio 2013\Projects\WCFService\WCFService\obj\Debug\WCFService.dll
+c:\users\rayban\documents\visual studio 2013\Projects\WCFService\WCFService\obj\Debug\WCFService.pdb
+C:\Users\Rayban\documents\visual studio 2013\Projects\WCFService\WCFService\obj\Debug\WCFService.csprojResolveAssemblyReference.cache
